@@ -1,4 +1,4 @@
 def hello_world(name):
     print(f'Hello world {name}')
-
-hello_world('Víctor') # aquí vamos a llamar a nuestra función
+name = 'Víctor'
+hello_world(name) # aquí vamos a llamar a nuestra función
